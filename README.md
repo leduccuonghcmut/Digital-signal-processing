@@ -7,8 +7,8 @@ This repository contains lab exercises for the **Digital Signal Processing (DSP)
 - **Lab 1:** Introduction of Signals and Systems
 - **Lab 2:** DDiscrete-Time Signal and System
 - **Lab 3:** Discrete-Time Signal and System (cont)
-- **Lab 4:** Content will be updated.
-- **Lab 5:** Content will be updated.
+- **Lab 4:** Z -Transform
+- **Lab 5:** Z -Transform (cont)
 - **Lab 6:** Content will be updated.
 
 ## 🛠 Tools & Libraries
